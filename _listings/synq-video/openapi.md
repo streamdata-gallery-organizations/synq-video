@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: SYNQ Video
 x-complete: 1
@@ -193,4 +192,3 @@ paths:
       tags:
       - Video
       - Uploader
----
